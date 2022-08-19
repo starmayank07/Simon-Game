@@ -3,4 +3,4 @@ It’s a kind of Memory Game. It shows 4 different colored buttons and randomly 
 
 ![Screenshot (356)](https://user-images.githubusercontent.com/70443956/179397599-fca941c0-9f70-4928-b911-2528f1d14136.png)
 Just play this game and enjoy.  
-Click Here 👉  (https://starmayank07.github.io/Simon-Game/)
+Click Here 👉  (https://starmayank07.github.io/Simon-Game)
